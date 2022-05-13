@@ -35,6 +35,7 @@ public class Model {
 		//cercaNooby(parziale, 0, numeroCrediti);
 		cercaPro(parziale, 0, numeroCrediti);
 		return migliore;	
+	
 	}
 
 	/*
